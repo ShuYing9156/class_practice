@@ -1,0 +1,4 @@
+要先在powershell安裝termcolor才能執行
+
+顏色有限，要多測試
+
