@@ -2,7 +2,7 @@ import random
 from termcolor import colored 
 
 
-#分行讀取txt檔(單詞列表)
+#分行讀取txt檔(單詞列表)，記得換路徑！！！
 with open("C://Users/ruby2/OneDrive/桌面/class_practice/word/animal.txt",'r') as animal:
     word1 = animal.read().splitlines() 
 
