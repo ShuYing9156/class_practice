@@ -48,7 +48,7 @@ print(word,'(可隱藏)')
 while True:
     
     ##確認輸入的情況
-    guess = input('\n來猜字吧：')
+    guess = input('\n來猜字吧(請輸入小寫)：')
     result = ''
     
     if len(guess) != 5:
